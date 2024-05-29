@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/323964841657980058/afd1b84aacea4051bbe34a79d680cdcb/artifacts
+end_time: 1716986026365
+entry_point_name: ''
+experiment_id: '323964841657980058'
+lifecycle_stage: active
+run_id: afd1b84aacea4051bbe34a79d680cdcb
+run_name: upbeat-swan-430
+run_uuid: afd1b84aacea4051bbe34a79d680cdcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716986022276
+status: 3
+tags: []
+user_id: RémiJulien

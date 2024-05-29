@@ -1,6 +1,7 @@
-# Tracking, Monitoring and Deploy with MLflow
+# Tracking, Monitoring and Deploy ML models with MLflow
 
-Dedicated section to handle tests in Python with `pytest`.
+Dedicated section to handle tests in Python with `mlflow`.
+
 <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="image" width="400" height="auto">
 
 - `demo_tests_python.py` & `test_demo_tests_python.py` : a function for string manipulation and the dedicated test script.

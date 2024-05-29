@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/718355275288198217/659d065fb8a240b3a408845ff11bf3a8/artifacts
+end_time: 1716986138419
+entry_point_name: ''
+experiment_id: '718355275288198217'
+lifecycle_stage: active
+run_id: 659d065fb8a240b3a408845ff11bf3a8
+run_name: Fold 1
+run_uuid: 659d065fb8a240b3a408845ff11bf3a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716986137869
+status: 3
+tags: []
+user_id: RémiJulien
