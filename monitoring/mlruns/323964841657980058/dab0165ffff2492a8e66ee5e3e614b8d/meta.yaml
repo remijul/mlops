@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/323964841657980058/dab0165ffff2492a8e66ee5e3e614b8d/artifacts
+end_time: 1716986534152
+entry_point_name: ''
+experiment_id: '323964841657980058'
+lifecycle_stage: active
+run_id: dab0165ffff2492a8e66ee5e3e614b8d
+run_name: classy-duck-304
+run_uuid: dab0165ffff2492a8e66ee5e3e614b8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716986528917
+status: 3
+tags: []
+user_id: RémiJulien

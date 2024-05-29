@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1716987513601
+current_stage: Production
+description: titanic_grid_search_experiment_best_model
+last_updated_timestamp: 1716990023357
+name: LogisticRegression
+run_id: 5952daec1b7447b78f787dfd28856ee9
+run_link: ''
+source: mlflow-artifacts:/323964841657980058/5952daec1b7447b78f787dfd28856ee9/artifacts/LogisticRegression
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/323964841657980058/5952daec1b7447b78f787dfd28856ee9/artifacts/LogisticRegression
+user_id: null
+version: 1
