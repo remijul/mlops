@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1715872311283
+current_stage: None
+description: null
+last_updated_timestamp: 1715872311283
+name: sk-learn-RandomForestRegressor-model
+run_id: c5f4a77ea8bd414baef91ed3e5be0762
+run_link: null
+source: file:///c:/Users/R%C3%A9miJulien/OneDrive/Documents/DcidConsulting/3.Projet/2024_MLOps_Titanic/mlruns/0/c5f4a77ea8bd414baef91ed3e5be0762/artifacts/sklearn-model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/R%C3%A9miJulien/OneDrive/Documents/DcidConsulting/3.Projet/2024_MLOps_Titanic/mlruns/0/c5f4a77ea8bd414baef91ed3e5be0762/artifacts/sklearn-model
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/323964841657980058/1dc3fa75ae614c00802b5aeb29e1502e/artifacts
+end_time: 1715865193235
+entry_point_name: ''
+experiment_id: '323964841657980058'
+lifecycle_stage: active
+run_id: 1dc3fa75ae614c00802b5aeb29e1502e
+run_name: unique-shark-164
+run_uuid: 1dc3fa75ae614c00802b5aeb29e1502e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865189508
+status: 3
+tags: []
+user_id: RémiJulien

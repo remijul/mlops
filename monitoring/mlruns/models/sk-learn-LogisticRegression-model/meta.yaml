@@ -1,0 +1,9 @@
+aliases:
+  challenger: '2'
+  champion: '3'
+  new: '4'
+  test: '1'
+creation_timestamp: 1715871849835
+description: null
+last_updated_timestamp: 1716890069950
+name: sk-learn-LogisticRegression-model

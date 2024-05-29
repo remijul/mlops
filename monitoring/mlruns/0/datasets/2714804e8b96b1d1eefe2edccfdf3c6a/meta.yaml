@@ -1,0 +1,10 @@
+digest: b5d9a027
+name: dataset
+profile: '{"num_rows": 1047, "num_elements": 5235}'
+schema: '{"mlflow_colspec": [{"type": "string", "name": "embarked", "required": false},
+  {"type": "string", "name": "sex", "required": true}, {"type": "long", "name": "pclass",
+  "required": true}, {"type": "double", "name": "age", "required": false}, {"type":
+  "double", "name": "fare", "required": false}]}'
+source: '{"tags": {"mlflow.user": "R\u00e9miJulien", "mlflow.source.name": "c:\\Users\\R\u00e9miJulien\\OneDrive\\Documents\\DcidConsulting\\3.Projet\\2024_MLOps_Titanic\\venv\\Lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1716890069950
+current_stage: None
+description: ''
+last_updated_timestamp: 1716890069950
+name: sk-learn-LogisticRegression-model
+run_id: a25a47a2319c4a3a8f4f276597cbb128
+run_link: ''
+source: models:/sk-learn-LogisticRegression-model/4
+status: READY
+status_message: null
+storage_location: file:///c:/Users/R%C3%A9miJulien/OneDrive/Documents/DcidConsulting/3.Projet/2024_MLOps_Titanic/mlruns/0/a25a47a2319c4a3a8f4f276597cbb128/artifacts/sklearn-model
+user_id: null
+version: 6

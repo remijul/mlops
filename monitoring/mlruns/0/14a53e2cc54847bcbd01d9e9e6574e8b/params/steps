@@ -1,0 +1,12 @@
+[('preprocessor', ColumnTransformer(transformers=[('num',
+                                 Pipeline(steps=[('imputer',
+                                                  SimpleImputer(strategy='median')),
+                                                 ('scaler', StandardScaler())]),
+                                 <sklearn.compose._column_transformer.make_column_selector object at 0x000001D1F5040910>),
+                                ('cat',
+                                 Pipeline(steps=[('encoder',
+                                                  OneHotEncoder(handle_unknown='ignore')),
+                                                 ('selector',
+                                                  SelectPercentile(percentile=50,
+                                                                   score_func=<function chi2 at 0x000001D1F208DC60>))]),
+                                 <sklearn.compose._column_transformer.make_column_selector object at 0x000001D1F5040ED0>)])), ('classifier', LogisticRegression())]

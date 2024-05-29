@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/R%C3%A9miJulien/OneDrive/Documents/DcidConsulting/3.Projet/2024_MLOps_Titanic/mlruns/0/2c886906f1b64c0a88c59cc07540ac48/artifacts
+end_time: 1715794241244
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c886906f1b64c0a88c59cc07540ac48
+run_name: gentle-worm-347
+run_uuid: 2c886906f1b64c0a88c59cc07540ac48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715794231327
+status: 3
+tags: []
+user_id: RémiJulien

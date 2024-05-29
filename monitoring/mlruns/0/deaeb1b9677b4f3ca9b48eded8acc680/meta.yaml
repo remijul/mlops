@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/R%C3%A9miJulien/OneDrive/Documents/DcidConsulting/3.Projet/2024_MLOps_Titanic/mlruns/0/deaeb1b9677b4f3ca9b48eded8acc680/artifacts
+end_time: 1715794241531
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: deaeb1b9677b4f3ca9b48eded8acc680
+run_name: invincible-perch-631
+run_uuid: deaeb1b9677b4f3ca9b48eded8acc680
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715794231327
+status: 3
+tags: []
+user_id: RémiJulien

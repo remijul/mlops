@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/718355275288198217/0d98cb30edb04268b31899742b18a4f7/artifacts
+end_time: 1715867881674
+entry_point_name: ''
+experiment_id: '718355275288198217'
+lifecycle_stage: active
+run_id: 0d98cb30edb04268b31899742b18a4f7
+run_name: Grid Search with All Folds
+run_uuid: 0d98cb30edb04268b31899742b18a4f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715867751605
+status: 3
+tags: []
+user_id: RémiJulien

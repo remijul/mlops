@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/R%C3%A9miJulien/OneDrive/Documents/DcidConsulting/3.Projet/2024_MLOps_Titanic/mlruns/0/14a53e2cc54847bcbd01d9e9e6574e8b/artifacts
+end_time: 1715794112945
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14a53e2cc54847bcbd01d9e9e6574e8b
+run_name: crawling-mole-903
+run_uuid: 14a53e2cc54847bcbd01d9e9e6574e8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715794101280
+status: 3
+tags: []
+user_id: RémiJulien

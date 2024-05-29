@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/323964841657980058/9d7f983381d64c2caaf75a9014f467e3/artifacts
+end_time: 1715865034785
+entry_point_name: ''
+experiment_id: '323964841657980058'
+lifecycle_stage: active
+run_id: 9d7f983381d64c2caaf75a9014f467e3
+run_name: defiant-hog-797
+run_uuid: 9d7f983381d64c2caaf75a9014f467e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865031071
+status: 3
+tags: []
+user_id: RémiJulien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/552402885848468379/f8103aa5ee3844819bb3d87dd4314e05/artifacts
+end_time: 1715852911675
+entry_point_name: ''
+experiment_id: '552402885848468379'
+lifecycle_stage: active
+run_id: f8103aa5ee3844819bb3d87dd4314e05
+run_name: bemused-boar-849
+run_uuid: f8103aa5ee3844819bb3d87dd4314e05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715852907506
+status: 3
+tags: []
+user_id: RémiJulien

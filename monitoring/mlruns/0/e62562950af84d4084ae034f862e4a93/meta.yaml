@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/R%C3%A9miJulien/OneDrive/Documents/DcidConsulting/3.Projet/2024_MLOps_Titanic/mlruns/0/e62562950af84d4084ae034f862e4a93/artifacts
+end_time: 1715794112945
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e62562950af84d4084ae034f862e4a93
+run_name: big-shoat-474
+run_uuid: e62562950af84d4084ae034f862e4a93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715794101280
+status: 3
+tags: []
+user_id: RémiJulien

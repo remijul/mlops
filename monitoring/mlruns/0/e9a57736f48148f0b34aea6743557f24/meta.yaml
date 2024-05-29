@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/R%C3%A9miJulien/OneDrive/Documents/DcidConsulting/3.Projet/2024_MLOps_Titanic/mlruns/0/e9a57736f48148f0b34aea6743557f24/artifacts
+end_time: 1715794113245
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9a57736f48148f0b34aea6743557f24
+run_name: fortunate-crab-679
+run_uuid: e9a57736f48148f0b34aea6743557f24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715794101280
+status: 3
+tags: []
+user_id: RémiJulien

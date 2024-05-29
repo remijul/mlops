@@ -1,0 +1,2 @@
+SelectPercentile(percentile=50,
+                 score_func=<function chi2 at 0x000001D1F208DC60>)

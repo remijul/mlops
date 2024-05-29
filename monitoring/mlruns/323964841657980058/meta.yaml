@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/323964841657980058
+creation_time: 1715865031055
+experiment_id: '323964841657980058'
+last_update_time: 1715865031055
+lifecycle_stage: active
+name: titanic_grid_search_experiment_best_model
