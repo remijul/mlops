@@ -1,0 +1,43 @@
+# Utilitaires
+python-dotenv #==1.0.0
+utils
+pytest
+#psutil==5.9.6
+
+# Bibliothèques de base
+numpy #==1.26.2
+pandas #==2.1.3
+#matplotlib==3.8.1
+
+# Autres bibliothèques ML
+#scipy==1.11.3
+#seaborn==0.13.0
+scikit-learn #==1.3.2
+
+# TensorFlow pour la reconnaissance d'images
+#tensorflow==2.14.0
+#pillow==10.1.0
+
+# TensorFlow avec support GPU (si vous avez un GPU compatible)
+#tensorflow-gpu==2.12.0
+
+# Bibliothèques supplémentaires pour le projet
+#streamlit==1.28.2
+#PIL==1.1.7
+
+# Outils pour le développement
+ipykernel
+pyzmq==25.1.2 # kernel error with higher version
+#jupyter==7.0.6
+#ipython==8.17.2
+#black==23.11.0
+#flake8==6.1.0
+
+# Request pour accéder à un website en ligne
+#requests==2.31.0
+
+# MLflow pour le monitoring
+#setuptools
+mlflow #==2.8.1
+pprintpp
+
