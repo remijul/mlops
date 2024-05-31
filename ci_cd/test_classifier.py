@@ -10,7 +10,7 @@ def test_load_data():
 def test_train_model():
     X, y = load_data()
     model, accuracy = train_model(X, y)
-    assert accuracy > 2 #Error with > 2   #OK with 0.8
+    assert accuracy > 0.95 #Error with > 2   #OK with 0.8
 
 if __name__ == "__main__":
     pytest.main()
